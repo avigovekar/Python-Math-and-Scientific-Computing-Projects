@@ -1,1 +1,1 @@
-# Scientific-and-Mathematical-Computing
+# Python projects for mathematical and scientific computing
